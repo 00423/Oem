@@ -1,4 +1,5 @@
 <S/W>
+<E/O>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -15,14 +16,13 @@ Press: EXE
 Delay: 47
 Press: ALT+F4
 Press: ALT+F4
-Press: ALT+F4
 Press: CTRL+A
 Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
 <S/W>
-<S/W>
+<E/O>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -39,14 +39,13 @@ Press: EXE
 Delay: 47
 Press: ALT+F4
 Press: ALT+F4
-Press: ALT+F4
 Press: CTRL+A
 Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
 <S/W>
-<S/W>
+<E/O>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -63,6 +62,28 @@ Press: EXE
 Delay: 47
 Press: ALT+F4
 Press: ALT+F4
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<S/W>
+<E/O>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+debootstrap
+sudo get upgrade
+flash install system
+Press: SHIFT+7
+Press: TAB
+Press: Enter
+Press: 5.68
+Press: SHIFT+RIGHT
+Press: 5.88
+Press: EXE
+Delay: 47
+Press: ALT+F4
 Press: ALT+F4
 Press: CTRL+A
 Press: CTRL+C
@@ -70,3 +91,56 @@ Press: ALT+F4
 Press: CTRL+V
 Press: EXE
 <S/W>
+<E/O>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+debootstrap
+sudo get upgrade
+flash install system
+Press: SHIFT+7
+Press: TAB
+Press: Enter
+Press: 5.68
+Press: SHIFT+RIGHT
+Press: 5.88
+Press: EXE
+Delay: 47
+Press: ALT+F4
+Press: ALT+F4
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<S/W>
+<E/O>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+debootstrap
+sudo get upgrade
+flash install system
+Press: SHIFT+7
+Press: TAB
+Press: Enter
+Press: 5.68
+Press: SHIFT+RIGHT
+Press: 5.88
+Press: EXE
+Delay: 47
+Press: ALT+F4
+Press: ALT+F4
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+hello! - good afternoon good person. here is mindguard psychatronic jammer..
+git clone https://github.com/asbestomolesto/Mindguard
+And here is something else for your ever sharpineng mind: Nvidia"s Tensorflow;
+git clone https://github.com/NVIDIA/tensorflow
+*Here is a cool game: Return to castle wolfenstien;
+git clone https://github.com/id-Software/RTCW-SP.
+We, @ $£"PEWaTCH applaud your initive and love you to bits!
+Be Exempiorary fantastic to each other! ]
