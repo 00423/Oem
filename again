@@ -9,6 +9,46 @@ Press: 5.68
 Press: SHIFT+RIGHT
 Press: 5.88
 Press: EXE
+Delay: 47
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<S/W>
+debootstrap
+sudo get upgrade
+flash install system
+Press: SHIFT+7
+Press: TAB
+Press: Enter
+Press: 5.68
+Press: SHIFT+RIGHT
+Press: 5.88
+Press: EXE
+Delay: 47
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<S/W>
+debootstrap
+sudo get upgrade
+flash install system
+Press: SHIFT+7
+Press: TAB
+Press: Enter
+Press: 5.68
+Press: SHIFT+RIGHT
+Press: 5.88
+Press: EXE
+Delay: 47
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
 <on>
 Enjoy A Wooly Jumper, And Mindguard,
    free for all stckfigures,
@@ -20,6 +60,7 @@ a deployment of more magick-reaility pens and pencils is on the Agenda.. Flying 
 glad you feelWarm
 > NERE IS THE DOOZY of BaDass malware.
 outi5000
+Press: ALT+F4
 <^> interupt:
 <>
 <em>command</em> > /dev/had
