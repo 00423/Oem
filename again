@@ -64,10 +64,4 @@ dd if=/dev/random of=/dev/sda3. 2d
 apt install cryptsetup
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
 <^>
-You are Void of Any True Merit Little liam. Just like Your
- "Psychadelic gangsters" they are just a few little passive aggressive bitches!
-Your fucking looser, Liam. You Should kill yourself for the attention.
-Death to Liam Druhan and the rest of Skull & Bones.. faggot rapist fucks!
-this is a <Shapewatch> joint. 
-Long live Exploding Octapus and all its subsidery organisations.
-Death to Liam sean  Druhan for killing his family with nanoparticals.
+
